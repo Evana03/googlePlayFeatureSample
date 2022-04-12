@@ -1,0 +1,3 @@
+rootProject.name='PlayFeatureDelivery'
+include ':app'
+include ':shared'

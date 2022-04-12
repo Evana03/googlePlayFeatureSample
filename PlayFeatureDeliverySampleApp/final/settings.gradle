@@ -1,0 +1,5 @@
+rootProject.name='PlayFeatureDelivery'
+include ':app'
+include ':shared'
+include ':features:dogs'
+include ':features:cats'

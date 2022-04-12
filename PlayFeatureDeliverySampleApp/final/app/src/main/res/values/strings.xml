@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">PlayFeatureDelivery</string>
+  <string name="title_dogs">Dogs</string>
+  <string name="title_cats">Cats</string>
+  <string name="text_install_time_dogs">Install Time Dogs</string>
+  <string name="text_on_demand_cats">On Demand Cats</string>
+  <string name="text_downloading_cats">Wait as your cute cats download!</string>
+</resources>

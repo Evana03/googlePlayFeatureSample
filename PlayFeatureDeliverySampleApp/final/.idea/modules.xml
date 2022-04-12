@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayFeatureDelivery.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayFeatureDelivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayFeatureDelivery.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayFeatureDelivery.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/PlayFeatureDelivery.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/PlayFeatureDelivery.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/cats/PlayFeatureDelivery.features.cats.iml" filepath="$PROJECT_DIR$/.idea/modules/features/cats/PlayFeatureDelivery.features.cats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/dogs/PlayFeatureDelivery.features.dogs.iml" filepath="$PROJECT_DIR$/.idea/modules/features/dogs/PlayFeatureDelivery.features.dogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/PlayFeatureDelivery.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/PlayFeatureDelivery.shared.iml" />
+    </modules>
+  </component>
+</project>
